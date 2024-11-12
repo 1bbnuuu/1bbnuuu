@@ -1,5 +1,9 @@
 <h1 align="left">Hi 👋, I'm Ibnu Rofik</h1>
-<p align="justify">I'm a junior developer passionate about frontend web development and artificial intelligence. My work combines clean, user-focused interfaces with innovative AI solutions to create engaging, responsive experiences. Currently exploring the intersection between web design and machine learning, I’m always eager to learn new tools and techniques to bring ideas to life. Let’s connect!</p>
+<p align="justify">My name is Ibnu Rofik, and I am a university student with a deep interest in frontend web development and artificial intelligence (AI). I am currently honing my technical skills in both of these fields and aspire to work in the technology industry, where I can create better user experiences and solve real-world problems.
+
+Frontend Web Development: I am proficient in HTML, CSS, JavaScript, and Tailwind, enabling me to create responsive, intuitive, and appealing interfaces.
+
+AI and Programming: In the field of AI and programming, I have skills in Python and PHP, which I use to build intelligent, data-driven applications.</p>
 
 <a href="mailto:ibnuzzy29@gmail.com?subject=I%20would%20like%20to&body=I%20would%20like%20to">Email Me</a>
 
