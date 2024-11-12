@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Ibnu Rofik</h1>
 <p align="justify">My name is Ibnu Rofik, and I am a university student with a deep interest in frontend web development and artificial intelligence (AI). I am currently honing my technical skills in both of these fields and aspire to work in the technology industry, where I can create better user experiences and solve real-world problems.
 
-Frontend Web Development: I am proficient in HTML, CSS, JavaScript, and Tailwind, enabling me to create responsive, intuitive, and appealing interfaces.
+Frontend Web Development: I am proficient in <strong>HTML, CSS, JavaScript, and Tailwind</strong>, enabling me to create responsive, intuitive, and appealing interfaces.
 
 AI and Programming: In the field of AI and programming, I have skills in Python and PHP, which I use to build intelligent, data-driven applications.</p>
 
