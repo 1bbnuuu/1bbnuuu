@@ -3,7 +3,7 @@
 
 Frontend Web Development: I am proficient in <strong>HTML, CSS, JavaScript, and Tailwind</strong>, enabling me to create responsive, intuitive, and appealing interfaces.
 
-AI and Programming: In the field of AI and programming, I have skills in Python and PHP, which I use to build intelligent, data-driven applications.</p>
+AI and Programming: In the field of AI and programming, I have skills in <strong>Python</strong> and <strong>PHP</strong>, which I use to build intelligent, data-driven applications.</p>
 
 <a href="mailto:ibnuzzy29@gmail.com?subject=I%20would%20like%20to&body=I%20would%20like%20to">Email Me</a>
 
