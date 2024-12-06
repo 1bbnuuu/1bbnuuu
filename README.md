@@ -1,14 +1,30 @@
-<h1 align="left">Hi 👋, I'm Ibnu Rofik</h1>
-<p align="justify">My name is Ibnu Rofik, and I am a university student with a deep interest in frontend web development and artificial intelligence (AI). I am currently honing my technical skills in both of these fields and aspire to work in the technology industry, where I can create better user experiences and solve real-world problems.
+# Hi there! 👋 I'm IBNU
 
-Frontend Web Development: I am proficient in <strong>HTML, CSS, JavaScript, and Tailwind</strong>, enabling me to create responsive, intuitive, and appealing interfaces.
+Welcome to my GitHub profile! 🚀  
+I am a passionate **Front-End Developer** and **AI Enthusiast** with a strong background in crafting responsive web interfaces and building intelligent, data-driven applications.
 
-AI and Programming: In the field of AI and programming, I have skills in <strong>Python</strong> and <strong>PHP</strong>, which I use to build intelligent, data-driven applications.</p>
+---
 
-<a href="mailto:ibnuzzy29@gmail.com?subject=I%20would%20like%20to&body=I%20would%20like%20to">Email Me</a>
+## 🌟 Skills & Expertise
 
+### **💻 Frontend Web Development**  
+- Proficient in **HTML**, **CSS** and **JavaScript**.  
+- Experienced with **Tailwind CSS**, creating sleek and responsive designs.  
+- Focused on developing intuitive and user-friendly interfaces.  
 
+### **🤖 AI and Programming**  
+- Skilled in **Python** for building intelligent solutions.
+- Passionate about algorithms and using them to create optimal solutions.  
 
-<p align="left"> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-</p>
+---
+
+## 📂 My Interests  
+- **AI and Intelligent Systems**: I'm fascinated by the ability of algorithms to solve complex problems efficiently.  
+- **Front-End Design**: I enjoy turning ideas into visually appealing and functional web experiences.  
+
+---
+
+## 🔗 Let's Connect  
+- **LinkedIn**: https://www.linkedin.com/in/ibnu-rofik-9a82a12b7/  
+
+Feel free to explore my repositories and check out my projects! I'm always open to collaboration and discussions. 😊  
