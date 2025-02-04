@@ -25,6 +25,8 @@ I am a passionate **Front-End Developer** and **AI Enthusiast** with a strong ba
 ---
 
 ## 🔗 Let's Connect  
-- **LinkedIn**: https://www.linkedin.com/in/ibnu-rofik-9a82a12b7/  
+- **LinkedIn**: https://www.linkedin.com/in/ibnu-rofik-9a82a12b7/
+- **Personal Website (under build)**: https://ibnu-rofik-portfolio.netlify.app/
+- 
 
 Feel free to explore my repositories and check out my projects! I'm always open to collaboration and discussions. 😊  
