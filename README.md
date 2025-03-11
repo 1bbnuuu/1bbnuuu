@@ -18,7 +18,7 @@ Feel free to explore my repositories and check out my projects! I'm always open 
 
 ## 🔗 Let's Connect  
 portfolio: https://1bbnuuu.netlify.app
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/1bbnuuu/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -54,6 +54,6 @@ portfolio: https://1bbnuuu.netlify.app
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
 </div> -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1bbnuuu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
+</div> -->
